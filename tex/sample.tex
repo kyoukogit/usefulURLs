@@ -1,0 +1,27 @@
+\documentclass{jreport}
+\usepackage{multirow}  
+\usepackage{tabularx}  
+
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+
+\begin{document}
+\begin{table}[h]
+	\centering
+	\caption{タイトル}
+	\begin{tabular}{C{2cm}|L{2cm}|L{3cm}}
+		%% カラム名 %%
+		\hline
+		カラム１(c)& 
+		\multicolumn{1}{c|}{カラム２(c)}& 
+		\multicolumn{1}{c}{カラム３(c)}	\\ \hline
+		%% データ　%%
+		親魏\par 倭王&		 友情&	卑弥呼		\\ \hline
+		蜀&			努力&	魯粛		\\ \hline
+		普&			勝利&	司馬炎		\\ \hline
+	\end{tabular}
+	\label{tab:sample}
+\end{table}
+
+\end{document}
