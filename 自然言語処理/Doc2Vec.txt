@@ -1,0 +1,9 @@
+https://analysis-navi.com/?p=2293
+https://qiita.com/g-k/items/5ea94c13281f675302ca
+https://ja.wayama.io/ml/lec/text/w2v/
+
+https://yag-ays.github.io/project/pretrained_doc2vec_wikipedia/
+
+https://qiita.com/pepperland_sk/items/36bc01ede4d55ee9f920#5-2-doc2vec
+
+https://disconnect.no-ip.org/wordpress/2020/08/13/%E5%B0%8F%E8%AA%AC%E3%82%92%E8%AA%AD%E3%82%82%E3%81%86%E3%82%92doc2vec%E3%81%A7%E8%A7%A3%E6%9E%90%E3%81%99%E3%82%8B4/
